@@ -1,5 +1,5 @@
 <p align="left">
-<a href="#-english">🔤 English</a> | <a href="#-日本語">🇯🇵 日本語</a>
+🔤 <a href="#english">English</a> | 🇯🇵 <a href="#日本語">日本語</a>
 </p>
 
 ---
