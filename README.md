@@ -29,7 +29,7 @@ As the iteration number goes up, the leaves' temperature goes down while the ste
 
 # Credits & License
 ## License
->This project is licensed under the [MIT License](https://github.com/sosucat/sbl-optimizer-colab/tree/main?tab=MIT-1-ov-file).
+>This project is licensed under the [MIT License](https://github.com/sosucat/sbl-optimizer-colab/blob/main/LICENSE).
 
 
 ## Developer
