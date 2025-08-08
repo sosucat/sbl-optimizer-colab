@@ -6,7 +6,7 @@
 
 ## English
 
-# 🐐 Advanced Colab Notebook for sbl-optimizer: Print Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
+# **``🐐 sbl-optimizer``** Advanced Colab Notebook<br> Print Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
 [![Advanced Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Df32_XEfXZwHhXW8_8GQt3X7Hf300CxG?usp=sharing)
 
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
@@ -76,7 +76,9 @@ series = {TEI '25}
 
 ## 日本語
 
-# **``🐐 sbl-optimizer``**<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)の模様最適化ソフト
+# ``🐐 sbl-optimizer`` 上級Colabノート<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)の模様最適化ソフト
+[![Advanced Colab](https://img.shields.io/badge/このノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/1Df32_XEfXZwHhXW8_8GQt3X7Hf300CxG?usp=sharing)
+
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
 [![sbl-optimizer](https://img.shields.io/badge/sbl--optimizer-black?logo=github)](https://github.com/sosucat/sbl-optimizer?tab=readme-ov-file#sbl-optimizer-%E6%97%A5%E6%9C%AC%E8%AA%9E)
 
@@ -93,7 +95,7 @@ series = {TEI '25}
 **sbl-optimizerをパッと使いたいだけの方は、以下の簡易版をおすすめ**します。
 簡易版では、プログラミングの知識がなくても、画像をアップロードしてセルを実行するだけで、最適化された画像を作ることができます。できあがった画像を印刷し、光を当てると、元画像の模様と同じようなデコボコ模様ができあがります。
 
-[![Simpler Colab](https://img.shields.io/badge/簡易版Colabノート-black?logo=googlecolab)](https://colab.research.google.com/drive/15zYmaNvh88jztUcqpzwLXtT4YMRk2i1G?usp=sharing)
+[![Simpler Colab](https://img.shields.io/badge/簡易版ノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/15zYmaNvh88jztUcqpzwLXtT4YMRk2i1G?usp=sharing)
 
 ---
 
