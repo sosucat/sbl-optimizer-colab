@@ -6,8 +6,8 @@
 
 ## English
 
-# **``🐐 sbl-optimizer``** Advanced Colab Notebook<br> Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
-[![Advanced Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Df32_XEfXZwHhXW8_8GQt3X7Hf300CxG?usp=sharing)
+# **``🐐 sbl-optimizer``** Advanced Notebook<br> Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
+[![Advanced Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1KX5W0MG34zS_qX7RqeMLizrkhlWp8ojh?usp=sharing)
 
 [![License](https://img.shields.io/badge/license-MIT-750014)](LICENSE)
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
@@ -23,7 +23,7 @@ Welcome to **sbl-optimizer**, a tool optimizing your pattern images for 2.5D tex
 **This notebook is an advanced version** walking through all the codes.
 If you just want to use sbl-optimizer without minding the coding, check out the simplified Colab notebook:
 
-[![Simpler Colab](https://img.shields.io/badge/Simpler_Colab_Notebook-black?logo=googlecolab)](https://github.com/sosucat/sbl-optimizer-colab-simple)
+[![Simpler Colab](https://img.shields.io/badge/Simpler_Colab_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Kpvq15wZrzsnQI28_JfkDSqCwT1ouyxj?usp=sharing)
 
 ---
 
@@ -77,8 +77,8 @@ series = {TEI '25}
 
 ## 日本語
 
-# ``🐐 sbl-optimizer`` 上級Colabノート<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)用の模様最適化
-[![Advanced Colab](https://img.shields.io/badge/このノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/1Df32_XEfXZwHhXW8_8GQt3X7Hf300CxG?usp=sharing)
+# ``🐐 sbl-optimizer`` 上級ノート<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)用の模様最適化
+[![Advanced Colab](https://img.shields.io/badge/このノートを開く-black?logo=googlecolab)](https://colab.research.google.com/drive/1GLLGjPD7EhUV6evPHUeh6qHe3aNMV47u?usp=sharing)
 
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
 [![sbl-optimizer](https://img.shields.io/badge/sbl--optimizer-black?logo=github)](https://github.com/sosucat/sbl-optimizer?tab=readme-ov-file#sbl-optimizer-%E6%97%A5%E6%9C%AC%E8%AA%9E)
