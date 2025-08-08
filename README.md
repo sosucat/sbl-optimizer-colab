@@ -18,26 +18,25 @@
 [![Fabrication](https://img.shields.io/badge/🔗_Fabrication-black)](https://sites.gatech.edu/futurefeelings/2025/07/23/make-puffy-patterns-with-light/)
 [![Watch fabrication demo on YouTube](https://img.shields.io/badge/Fabrication-750014?logo=youtube)](https://youtu.be/LomVS_jHxl0?feature=shared)
 
-Welcome to **sbl-optimizer**, a friendly tool that turns your images into printable patterns for 2.5D raised textures!  
-**This notebook is an advanced version** walking through all the codes. You can upload a picture, run cells, and get an optimized pattern you can print, shine light, and watch pop up like magic.
+Welcome to **sbl-optimizer**, a tool optimizing your pattern images for 2.5D texture fabrication!
+**This notebook is an advanced version** walking through all the codes.
 If you just want to use sbl-optimizer without minding the coding, check out the simplified Colab notebook:
 
-[![Simpler Colab](https://img.shields.io/badge/Simpler_Colab_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Kpvq15wZrzsnQI28_JfkDSqCwT1ouyxj?usp=sharing)
+[![Simpler Colab](https://img.shields.io/badge/Simpler_Colab_Notebook-black?logo=googlecolab)](https://github.com/sosucat/sbl-optimizer-colab-simple)
 
 ---
 
 
 ![A printed pattern's shades change as the optimization progresses, and the resulting temperature distribution gets closer to the intended pattern.](https://sites.gatech.edu/futurefeelings/files/2025/03/opt_step.gif)
 
-Optimization of the printed pattern results in a uniform temperature pattern (right) closely matching the original pattern (left). In this example, the leaves are over-heated while the stems are under-heated before the optimization.
-As the iteration number goes up, the leaves' temperature goes down while the stems' goes up, resulting in a more uniform temperature distribution.
+Optimization of the printed pattern results in a uniform temperature distribution (right) closely matching the original pattern (left). In this example, the leaves are over-heated while the stems are under-heated before the optimization. As the iteration number goes up, the leaves' temperature goes down while the stems' goes up, resulting in a more uniform temperature distribution.
 
 ---
 
 
 # Credits & License
 ## License
->This project is licensed under the [MIT License](https://github.com/sosucat/sbl-optimizer-colab/blob/main/LICENSE).
+>This project is licensed under the [MIT License](LICENSE).
 
 
 ## Developer
@@ -77,38 +76,39 @@ series = {TEI '25}
 
 ## 日本語
 
-# 🐐 sbl-optimizer 上級者向け Colab ノートブック：[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/) の印刷パターン最適化ツール
-[![Advanced Colab](https://img.shields.io/badge/Try_This_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Df32_XEfXZwHhXW8_8GQt3X7Hf300CxG?usp=sharing)
-
+# **``🐐 sbl-optimizer``**<br>[Swell by Light](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)の模様最適化ソフト
 [![PyPI version](https://badge.fury.io/py/sbl-optimizer.svg)](https://badge.fury.io/py/sbl-optimizer)
-[![GitHub](https://img.shields.io/badge/GitHub_repo-black?logo=github)](https://github.com/sosucat/sbl-optimizer)
+[![sbl-optimizer](https://img.shields.io/badge/sbl--optimizer-black?logo=github)](https://github.com/sosucat/sbl-optimizer?tab=readme-ov-file#sbl-optimizer-%E6%97%A5%E6%9C%AC%E8%AA%9E)
 
-[![Homepage](https://img.shields.io/badge/🔗_Homepage-black)](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
-[![Author](https://img.shields.io/badge/Author-black?logo=googlescholar&logoColor=white)](https://sosuke-ichihashi.com/)
-[![Research paper](https://img.shields.io/badge/Research_Paper-black?logo=acm)](https://doi.org/10.1145/3689050.3704420)
-[![Fabrication](https://img.shields.io/badge/🔗_Fabrication-black)](https://sites.gatech.edu/futurefeelings/2025/07/23/make-puffy-patterns-with-light/)
-[![Watch fabrication demo on YouTube](https://img.shields.io/badge/Fabrication-750014?logo=youtube)](https://youtu.be/LomVS_jHxl0?feature=shared)
+[![Homepage](https://img.shields.io/badge/🔗_ホームベージ-black)](https://sites.gatech.edu/futurefeelings/2025/07/03/swell-by-light-tei-25-2/)
+[![Author](https://img.shields.io/badge/著者サイト-black?logo=googlescholar&logoColor=white)](https://sosuke-ichihashi.com/)
+[![Research paper](https://img.shields.io/badge/研究論文-black?logo=acm)](https://doi.org/10.1145/3689050.3704420)
+[![Fabrication](https://img.shields.io/badge/🔗_作り方-black)](https://sites.gatech.edu/futurefeelings/2025/07/23/%e5%85%89%e3%81%a7%e3%83%87%e3%82%b3%e3%83%9c%e3%82%b3%e3%82%82%e3%82%88%e3%81%86%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/)
+[![Watch fabrication demo on YouTube](https://img.shields.io/badge/作り方-750014?logo=youtube)](https://youtu.be/LomVS_jHxl0?feature=shared)
 
-**sbl-optimizer** は、画像を印刷可能な 2.5D テクスチャパターンへと変換するためのフレンドリーなツールです。  
-**このノートブックは上級者向けバージョン**で、全てのコードのステップを丁寧に解説しています。画像をアップロードしてセルを実行することで、最適化されたパターンを生成し、印刷し、光を当ててデザインが立体的に浮き上がる様子を観察できます。
+**sbl-optimizer** は、Swell by Lightで画像に忠実なデコボコ模様を作るため、画像の濃淡を修正するソフトです。
 
-コードの詳細を気にせずすぐに試したい場合は、以下の簡易版ノートブックをご利用ください：
+**本ノートは上級者向け**なので、sbl-optimizerライブラリをPython環境で利用して模様画像を最適化する方法の詳細を理解できます。
 
-[![Simpler Colab](https://img.shields.io/badge/Simpler_Colab_Notebook-black?logo=googlecolab)](https://colab.research.google.com/drive/1Kpvq15wZrzsnQI28_JfkDSqCwT1ouyxj?usp=sharing)
+**sbl-optimizerをパッと使いたいだけの方は、以下の簡易版をおすすめ**します。
+簡易版では、プログラミングの知識がなくても、画像をアップロードしてセルを実行するだけで、最適化された画像を作ることができます。できあがった画像を印刷し、光を当てると、元画像の模様と同じようなデコボコ模様ができあがります。
+
+[![Simpler Colab](https://img.shields.io/badge/簡易版Colabノート-black?logo=googlecolab)](https://colab.research.google.com/drive/15zYmaNvh88jztUcqpzwLXtT4YMRk2i1G?usp=sharing)
 
 ---
 
 ![最適化によって印刷パターンの濃淡が変化し、温度分布が意図したデザインに近づいていく様子](https://sites.gatech.edu/futurefeelings/files/2025/03/opt_step.gif)
 
-印刷されたパターンを最適化することで、最終的な温度分布（右）が元のデザイン（左）により近づきます。  
-この例では、最適化前に葉の部分は加熱しすぎ、茎の部分は加熱不足でした。最適化を繰り返すことで、温度分布が均一になっていきます。
+画像の模様の濃淡を最適化することで、画像の模様（左）に近い、均一な温度分布（右）になり、画像に近いきれいなデコボコ模様ができます。
+この例では、最適化前（iteration: 0）は葉の部分が熱くなりすぎている一方で、茎の部分は加熱不足の状態でした。
+最適化が進むにつれて、葉の温度は下がり、茎の温度は上昇していき、結果としてより均一な温度分布が実現されています。
 
 ---
 
 # クレジットとライセンス
 
 ## ライセンス
->このプロジェクトは [MIT ライセンス](https://github.com/sosucat/sbl-optimizer-colab/blob/main/LICENSE) のもとで公開されています。
+>このプロジェクトは [MIT ライセンス](LICENSE) のもとで公開されています。
 
 ## 開発者
 >Sosuke Ichihashi
