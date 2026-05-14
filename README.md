@@ -4,7 +4,7 @@
 
 ---
 
-![The thumbnail for the Vimeo video of Swell by Light](./assets/img/thumbnail_sbl.jpg)
+[![The thumbnail for the Vimeo video of Swell by Light](./assets/img/thumbnail_sbl.jpg)](https://vimeo.com/1189739877)
 
 ## English
 
