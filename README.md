@@ -4,6 +4,8 @@
 
 ---
 
+![The thumbnail for the Vimeo video of Swell by Light](./assets/img/thumbnail_sbl.jpg)
+
 ## English
 
 # **``🐐 sbl-optimizer``** Advanced Colab<br> Pattern Optimizer for [Swell by Light](https://sites.gatech.edu/futurefeelings/2025/03/07/swell-by-light-tei-25/)
